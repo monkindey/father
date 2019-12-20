@@ -1,5 +1,5 @@
 {
-  "name": "father",
+  "name": "father-canary",
   "version": "2.29.1",
   "description": "Library toolkit based on rollup, docz, storybook, jest and eslint.",
   "homepage": "http://github.com/umijs/father",
@@ -60,7 +60,7 @@
     "prettier": "1.18.2",
     "rc-source-loader": "^1.0.2",
     "react-markdown": "^4.0.8",
-    "sass-loader": "^8.0.0",
+    "sass-loader": "^7.0.0",
     "signale": "1.4.0",
     "slash2": "^2.0.0",
     "staged-git-files": "^1.2.0",
